@@ -18,6 +18,9 @@
     <ClCompile Include="ParadigmaOOP1_162.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="mainJM.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="anak.h">

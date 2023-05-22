@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="mainJM.cpp" />
     <ClCompile Include="ParadigmaOOP1_162.cpp" />
   </ItemGroup>
   <ItemGroup>
